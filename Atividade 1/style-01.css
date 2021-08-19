@@ -1,0 +1,21 @@
+#primeiro {
+  font: 15px 'Times New Roman';
+}
+
+#segundo {
+  font: 20px Verdana;
+}
+
+#terceiro {
+  font: 30px 'Lucida Console';
+}
+
+#quarto {
+  font: 40px 'Lucida Handwriting';
+}
+
+#quinto {
+  font: 40px Papyrus;
+}
+
+

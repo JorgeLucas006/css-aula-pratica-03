@@ -1,0 +1,42 @@
+body {
+  background-color: aquamarine;
+}
+
+.title {
+  color: black;
+  text-align: center;
+  font: 2rem Verdana;
+}
+
+p {
+  color: blue;
+  font: 12px Verdana;
+  letter-spacing: .3em;
+  word-spacing: 4px;
+  height: 3em;
+  text-align: left;
+  text-indent: 25px;
+  width: 60%;
+  height: max-content;
+  padding: 1rem 0;
+}
+
+h1 {
+  color: red;
+  font-style: italic;
+  text-align: center;
+  word-spacing: 10px;
+  width: 60%;
+  font-size: 14px;
+}
+
+div {
+  color: pink;
+  width: 60%;
+  height: 400px;
+  font: 16px 'Times New Roman';
+  text-align: right;
+  word-spacing: 6px;
+  background-color: coral;
+  padding: 1rem .8rem;
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: aquamarine;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  width: 20%;
+}
+
+.nome {
+  font: italic bold 25px Verdana;
+}
+
+.idade {
+  font: 16px 'Times New Roman';
+  margin-top: 0;
+  margin-bottom: 5rem;
+}

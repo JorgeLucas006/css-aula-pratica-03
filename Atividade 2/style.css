@@ -1,0 +1,16 @@
+h1 {
+  color: #880;
+  text-transform: uppercase;
+}
+
+input {
+  margin-bottom: 1.5rem;
+}
+
+textarea {
+  resize: none;
+}
+
+li {
+  font-style: italic;
+}
